@@ -20,3 +20,6 @@ Finds which prime numbers multiply together to make the original _number_. Simpl
 **Checking is a number prime**
 _bool ifPrime(long number)_
 Checks is a _number_ prime. Even simplier huh?
+
+**main.cpp**
+Example using wmath.h. (In polish)
