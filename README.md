@@ -3,7 +3,7 @@
 
 **Area of a circle**  
 _double circleArea(double radius)_
-Returns area of a circle (obviously) - pi times _squared_ , the pi number in the function equals 3.141592653589 (coz why not?).
+Returns area of a circle (obviously) - pi times _radius_ squared, the pi number in the function equals 3.141592653589 (coz why not?).
   
 **Power of a number**  
 _double power(double base, double exponent)_
